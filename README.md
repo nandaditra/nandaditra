@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Introvert
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaditra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaditra&layout=compact&langs_count=10&theme=dracula&hide=javascript)](https://github.com/anuraghazra/github-readme-stats) 
