@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web and Mobile Development
 - 💬 Ask me about nandaditra
 - 📫 How to reach me: 
-     - https://www.linkedin.com/in/nanda-aditya-putra-b16473200
+     - https://www.linkedin.com/in/nandaditra
      - https://github.com/nandaditra
      - https://www.instagram.com/nandaditra
 - 😄 Pronouns: He/Him
