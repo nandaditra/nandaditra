@@ -7,8 +7,8 @@ Have a Good Day!
 <pre>
 ├─💼 <b>Experience</b>
 │ ├─🏧 <a href="https://www.fxmweb.com/">FXMedia Internet Pte Ltd</a>              - <b>Frontend Developer Intern</b>
-│ ├─🌊 <a href="https://sagaratechnology.com/en">Sagara Technology</a>                  - <b>Frontend Engineer Intern</b>
-│ ├─💟 <a href="https://okegarden.com/">OkeGarden</a>                  - <b>Frontend Developer Intern<b>
+│ ├─🌊 <a href="https://sagaratechnology.com/en">Sagara Technology</a>                    - <b>Frontend Engineer Intern</b>
+│ ├─💟 <a href="https://okegarden.com/">OkeGarden</a>                                     - <b>Frontend Developer Intern<b>
 │ 
 |     
 ├─🎓 <b>Education & Others</b>
@@ -21,8 +21,8 @@ Have a Good Day!
 │ └─ Google Cloud Platform
 │
 ├─📫 <b>Get In Touch</b>
-│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/nandaditra/">/in/rakhmad-giffari-nurfadhilah</a>
-│ └─🌏 Personal site           - <a href="https://portofolio-five-sable.vercel.app/">fadhilmail.tech/</a>
+│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/nandaditra/">/in/nandaditra</a>
+│ └─🌏 Personal site           - <a href="https://portofolio-five-sable.vercel.app/">nandaditra/</a>
 │ 
 ├─🔥 <b>Check out my pinned repos and see some of my works 😆</b>
 │ 
