@@ -8,7 +8,7 @@ Have a Good Day!
 ├─💼 <b>Experience</b>
 │ ├─🏧 <a href="https://www.fxmweb.com/">FXMedia Internet Pte Ltd</a>              - <b>Frontend Developer Intern</b>
 │ ├─🌊 <a href="https://sagaratechnology.com/en">Sagara Technology</a>                     - <b>Frontend Engineer Intern</b>
-│ ├─💟 <a href="https://okegarden.com/">OkeGarden</a>                              - <b>Frontend Developer Intern<b>
+│ ├─💟 <a href="https://okegarden.com/">OkeGarden</a>                             - <b>Frontend Developer Intern<b>
 │ 
 |     
 ├─🎓 <b>Education & Others</b>
