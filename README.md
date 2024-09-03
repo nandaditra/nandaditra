@@ -6,7 +6,7 @@ Have a Good Day!
 ## 📂 Directory
 <pre>
 ├─💼 <b>Experience</b>
-│ ├─🎪 <a href="https://www.astronauts.id/">ASTRO</a>              - <b>Software Engineer, Frontend</b>
+│ ├─🎪 <a href="https://www.astronauts.id/">ASTRO</a>                                   - <b>Software Engineer, Frontend</b>
 │ ├─🏧 <a href="https://www.fxmweb.com/">FXMedia Internet Pte Ltd</a>              - <b>Frontend Developer Intern</b>
 │ ├─🌊 <a href="https://sagaratechnology.com/en">Sagara Technology</a>                     - <b>Frontend Engineer Intern</b>
 │ ├─💟 <a href="https://okegarden.com/">OkeGarden</a>                             - <b>Frontend Developer Intern<b>
