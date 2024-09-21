@@ -18,7 +18,7 @@ Have a Good Day!
 │ └─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Computer Science 2020</b>
 │
 ├─🌟 <b>Tech Stack</b>
-│ ├─ JavaScript (React, NextJs)
+│ ├─ JavaScript (React, VueJs, NextJs)
 | |─ TypeScript
 │ ├─ Golang
 │ └─ Google Cloud Platform
