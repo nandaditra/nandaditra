@@ -3,8 +3,6 @@
 My name is Nanda Aditya Putra, and i'm currently studying at Brawijaya University Malang. I'm interested in Frontend especially Javascript and Typescript. I'm also to try learn Java in backend👀 .
 Have a Good Day!
 
-![Nandaditra's leetcode activity](https://leetcard.jacoblin.cool/nandaditra56?ext=activity)
-
 ## 📂 Directory
 <pre>
 ├─💼 <b>Experience</b>
@@ -25,7 +23,7 @@ Have a Good Day!
 │
 ├─📫 <b>Get In Touch</b>
 │ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/nandaditra/">/in/nandaditra</a>
-│ └─🌏 Personal site           - <a href="https://portofolio-five-sable.vercel.app/">nandaditra/</a>
+│ └─🌏 Personal site           - <a href="https://nandaditra.vercel.app/">nandaditra/</a>
 │ 
 ├─🔥 <b>Check out my pinned repos and see some of my works 😆</b>
 │ 
