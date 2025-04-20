@@ -1,6 +1,6 @@
 ## 👋 Hi There!
 
-My name is Nanda Aditya Putra.I'm currently Informatics Engineering at Brawijaya University Malang with have experience in Web Development. I'm interested in Frontend especially Javascript and Typescript. I'm also to try learn Java in backend👀 .
+My name is Nanda Aditya Putra.I'm Fresh Graduate Informatics Engineering at Brawijaya University Malang with have experience in Software Engineering and Cyber Security 👀
 Have a Good Day!
 
 # ⚡ Technologies
